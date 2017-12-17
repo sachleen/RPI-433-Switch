@@ -1,0 +1,29 @@
+Switch 1
+Received 87347
+Received pulse 183
+Received 87356
+Received pulse 185
+
+Switch 2
+Received 87491
+Received pulse 182
+Received 87500
+Received pulse 183
+
+Switch 3
+Received 87811
+Received pulse 184
+Received 87820
+Received pulse 182
+
+Switch 4
+Received 89347
+Received pulse 188
+Received 89356
+Received pulse 182
+
+Switch 5
+Received 95491
+Received pulse 183
+Received 95500
+Received pulse 182
